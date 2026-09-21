@@ -1,1 +1,1 @@
-Linha da equipe (edite ESTA MESMA LINHA para criar conflito): Equipe = [Pessoa A]git status
+Linha da equipe (edite ESTA MESMA LINHA para criar conflito): Equipe = [Arthur]
