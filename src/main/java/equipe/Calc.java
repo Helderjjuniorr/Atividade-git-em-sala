@@ -16,4 +16,8 @@ public class Calc {
     public int multiplicacao(int a, int b) {
         return 0;
     }
+
+    public int soma(int a, int b) {
+    return a + b;
+}
 }
