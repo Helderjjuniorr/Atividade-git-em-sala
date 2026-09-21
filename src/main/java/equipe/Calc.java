@@ -7,10 +7,9 @@ public class Calc {
         return 0;
     }
 
-    // Pessoa B
-    public int subtracao(int a, int b) {
-        return 0;
-    }
+  public int subtracao(int a, int b) {
+    return a - b;
+}
 
     // Pessoa C
     public int multiplicacao(int a, int b) {
